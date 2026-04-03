@@ -16,7 +16,7 @@ Last update for version: `0.4.2`
 
 ## Install
 
-- Copy the contents of `snazzy.yml` to your `alacritty.yml` configuration file.
+- Copy the contents of `snazzy.toml` into your `alacritty.toml` configuration file.
 
 ## Related
 
