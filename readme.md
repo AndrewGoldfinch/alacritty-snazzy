@@ -6,7 +6,7 @@
 
 ![Image of a terminal displaying the Snazzy theme colors](screenshot.png)
 
-Last update for version: `0.4.2`
+Last update for Alacritty version: `0.17.0` 
 
 ## Install
 
@@ -30,4 +30,4 @@ Last update for version: `0.4.2`
 
 ## License
 
-MIT © Alejandro Beltrán
+MIT © Andrew Goldfinch
